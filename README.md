@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi 👋, I'm Paras
 
-<!--
-**ParasSalonia/ParasSalonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An AIML student in my 2nd year, learning Python and web fundamentals.  
+Currently focusing on Machine Learning concepts and contributing to open-source projects.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Web Fundamentals -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+  <!-- Version Control -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+## 🌱 Currently Learning
+- Open Source Contribution
