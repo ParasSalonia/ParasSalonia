@@ -1,4 +1,4 @@
-## Hi 👋, I'm Paras
+## Hi, I'm Paras
 
 2nd year AIML student, learning Python and web fundamentals.  
 Currently focusing on Machine Learning concepts and contributing to open-source projects.
